@@ -1,2 +1,2 @@
-# Data_Science_MT_Code
+# Data Science Master Thesis Code
 Repository for the coding done during my master thesis. 
